@@ -5,7 +5,7 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "Cyrus Pellet",
     pageTitleSuffix: "Handover notes",
-    enableSPA: true,
+    enableSPA: false,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
