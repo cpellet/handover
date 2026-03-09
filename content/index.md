@@ -42,7 +42,7 @@ Supported Information Management platforms development, dashboarding, and inter-
 ### [[HNRP Typesetting]]
 
 > [!INFO] Initial survey completed (November 2025)
-Trialed during Oct-Nov 2025. The InDesign plugin approach was ruled out, and nothing was definitely put in place for this year. The same roadblocks will certainly be raised in the Fall of 2026.
+> Trialed during Oct-Nov 2025. The InDesign plugin approach was ruled out, and nothing was definitely put in place for this year. The same roadblocks will certainly be raised in the Fall of 2026.
 ### [[JIAF Dashboards]]
 
 > [!SUCCESS] Successfully deployed (December 2025)

@@ -5,7 +5,7 @@ strategic_owner: Nick Imboden
 repository: https://github.com/UN-OCHA/activity-info-scripts
 stack: Python, Typer, Docker, ActivityInfo API
 ---
-**Background:** The Branch's Monitoring team has historically been maintaining two separate platforms: RPM and the Project Module. These internally-developed legacy platforms enabled country offices to register partners and activities for reporting purposes. Due to shifting funding conditions, a commercial alternative was selected as a unified replacement.
+**Background:** The Branch's Monitoring team has historically been maintaining two separate platforms: [RPM](https://www.unocha.org/publications/report/world/hpc-tools-rpm-response-planning-and-monitoring-tool) and the [Project Module](https://projects.hpc.tools/). These internally-developed legacy platforms enabled country offices to register partners and activities for reporting purposes. Due to shifting funding conditions, a commercial alternative was selected as a unified replacement.
 ## On ActivityInfo
 [ActivityInfo](https://www.activityinfo.org/) is now used by OCHA and partners to record **cluster activities** in a well-defined ontology for monitoring purposes. Country offices register projects during a planning phase, defining **caseloads**, **activities**, their related **costs** and **indicators**. These projects may be part of broader **coordination plans** associated with HNRPs or the GHO.
 
