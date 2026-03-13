@@ -199,3 +199,8 @@ Cyrus Pellet cyrus.pellet@gmail.com.
 | AIR              | In development | Nick Imboden       | Nick Imboden       |
 | AIS              | Completed      | Nick Imboden       | Nick Imboden       |
 | HPCS Cluster     | Interrupted    | Fawad Hussain Syed | Fawad Hussain Syed |
+|                  |                |                    |                    |
+## Annex: Commentaries
+*The views expressed in these are mine and mine only. They are meant to be shared internally.*
+- [[Providing data responsibly in the age of AI]]
+- [[Developing in house vs outsourcing]]

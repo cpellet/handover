@@ -4,7 +4,6 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Cyrus Pellet",
-    pageTitleSuffix: "Handover notes",
     enableSPA: false,
     enablePopovers: true,
     analytics: {
