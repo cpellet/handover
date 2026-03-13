@@ -37,7 +37,10 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      title: "Notes",
+      folderDefaultState: "open",
+    }),
   ],
   right: [
     Component.Graph(),
