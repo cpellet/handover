@@ -49,5 +49,7 @@ This brings several benefits:
 
 Reproducing the HNRP template in Typst takes 1-2 months of work full-time, but ultimately saves up many precious months of labor for country office colleagues, who can better spend their time on their actual data and content.
 
+The proof of concept code can be found [here](https://typst.app/project/r8sHwRal2qiZQZioa480Ch).
+
 > [!SUMMARY] After careful consideration of the problem and much time spent thinking about solutions, I highly recommend future involvement in this to seriously consider this Typesetting approach for the reasons listed above
 

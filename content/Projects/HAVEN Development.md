@@ -18,7 +18,7 @@ Beyond generating visualizations, HAVEN can also perform other tasks on spreadsh
 - Pivot/unpivot columns, compute aggregations, and insert formulas
 - Operate on multiple sheets at once
 ## Technical details
-At its core, HAVEN is simply a wrapper around commercial LLMs such as GPT and Gemini, including a set of [custom tools](https://www.ibm.com/think/topics/tool-calling) to interact with the spreadsheet and [dynamically fill out UI elements](https://tambo.co/). The spreadsheet interaction was inspired from [this project](github.com/michaelmagan/cheatsheet), and the Datawrapper integration was coded as a custom MCP server.
+At its core, HAVEN is simply a wrapper around commercial LLMs such as GPT and Gemini, including a set of [custom tools](https://www.ibm.com/think/topics/tool-calling) to interact with the spreadsheet and [dynamically fill out UI elements](https://tambo.co/). The spreadsheet interaction was inspired from [this project](https://github.com/michaelmagan/cheatsheet), and the Datawrapper integration was coded as a custom MCP server.
 ## Potential future directions
 - **Azure Integration:** Explore porting custom MCP tools to Microsoft's Power Platform / Copilot ecosystem.
 - **HDX/ReliefWeb Integration**: Pulling HNRP/GHO data directly into the spreadsheet
